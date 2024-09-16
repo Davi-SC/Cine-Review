@@ -1,2 +1,8 @@
-# Cine-Review
-This repository is for the publication of the work related to the third assessment in the Web Programming 1 course.  The objective of the project is to create a site for reviewing films and series, using the backend provided by the professor and applying the concepts learned during the course.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
